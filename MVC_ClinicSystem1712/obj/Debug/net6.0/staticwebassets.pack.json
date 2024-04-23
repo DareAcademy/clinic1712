@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVC_ClinicSystem1712.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVC_ClinicSystem1712.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\2e438f4a-467d-441a-b7af-8d123c7f29e9.jpg",
+      "PackagePath": "staticwebassets\\2e438f4a-467d-441a-b7af-8d123c7f29e9.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\7c9ffe76-69e9-431d-83d4-fcfa337ab692.jpg",
+      "PackagePath": "staticwebassets\\7c9ffe76-69e9-431d-83d4-fcfa337ab692.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\PatientImages\\c20c3950-e371-4adb-a0f8-5d5a6a6e42b7.jpg",
+      "PackagePath": "staticwebassets\\PatientImages\\c20c3950-e371-4adb-a0f8-5d5a6a6e42b7.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\PatientImagesaba1af50-c942-4f2e-9e41-e217588f86a3.jpg",
+      "PackagePath": "staticwebassets\\PatientImagesaba1af50-c942-4f2e-9e41-e217588f86a3.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\0d78850c-1199-43c3-af79-80307697ddbd.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\0d78850c-1199-43c3-af79-80307697ddbd.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\4d1d2ab3-1eff-443b-bb11-943d4d4b4281.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\4d1d2ab3-1eff-443b-bb11-943d4d4b4281.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\518779fd-6c4b-4b01-8be1-dfe611974633.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\518779fd-6c4b-4b01-8be1-dfe611974633.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\6f14441a-802c-4840-b612-3f3801df9ade.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\6f14441a-802c-4840-b612-3f3801df9ade.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\c1cb3ba9-12c9-4973-b207-91fd7b04a5e6.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\c1cb3ba9-12c9-4973-b207-91fd7b04a5e6.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\d2dc3b1a-bcf7-43ea-9b53-67818fce162d.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\d2dc3b1a-bcf7-43ea-9b53-67818fce162d.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\dad9984e-c00f-4778-a10c-2545011ad01f.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\dad9984e-c00f-4778-a10c-2545011ad01f.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImages\\f0fba1bc-6b66-4d53-8217-add7ea757db6.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\f0fba1bc-6b66-4d53-8217-add7ea757db6.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImagesa0691f48-3dd1-407d-82cb-eccdd80afbf8.jpg",
+      "PackagePath": "staticwebassets\\ProfileImagesa0691f48-3dd1-407d-82cb-eccdd80afbf8.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\ProfileImagesd4e977ef-21d3-4240-959a-acdcb9255d39.jpg",
+      "PackagePath": "staticwebassets\\ProfileImagesd4e977ef-21d3-4240-959a-acdcb9255d39.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\a6931789-0a67-4edb-83b6-6f5a97966629.jpg",
+      "PackagePath": "staticwebassets\\a6931789-0a67-4edb-83b6-6f5a97966629.jpg"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\MVC_ClinicSystem1712\\MVC_ClinicSystem1712\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVC_ClinicSystem1712.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MVC_ClinicSystem1712.props",
+      "PackagePath": "build\\MVC_ClinicSystem1712.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC_ClinicSystem1712.props",
+      "PackagePath": "buildMultiTargeting\\MVC_ClinicSystem1712.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MVC_ClinicSystem1712.props",
+      "PackagePath": "buildTransitive\\MVC_ClinicSystem1712.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
